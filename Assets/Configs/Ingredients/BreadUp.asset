@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a38c679cec6e984b90e12c5db768485, type: 3}
+  m_Name: BreadUp
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 2025708776434340038, guid: 14a56c8ee73c94d49b3e0a80ffc795e6, type: 3}
+  Icon: {fileID: 21300000, guid: 6887ffa127d029542b36de2722958e0f, type: 3}
+  Indent: 0.5
+  Reward: 1
